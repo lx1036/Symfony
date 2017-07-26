@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Acme\TestBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
